@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    background: #ece96e;
+    background: -webkit-linear-gradient(to right, #ffffff, violet);
+    background: linear-gradient(to right, #ffffff, violet);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+
+.mobile-container {
+    background-color: aquamarine;
+    width: 400px;
+}
+
+img{
+
+}
